@@ -8,7 +8,7 @@
 <strong>🐺 𝕎𝕆𝕃𝔽 𝔹𝕆𝕋</strong>
 <br>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=WOLFBOT;Predator+Bot;Made+By+Silent+Wolf" alt="Typing SVG" style="font-size: 50px;"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=WOLFBOT+v1.1.6;Predator+Bot;Made+By+Silent+Wolf" alt="Typing SVG" style="font-size: 50px;"/>
 </a>
 
 <p align="center">
@@ -39,15 +39,15 @@
 
 **DOWNLOAD ZIP**
 <br>
-<a href="https://github.com/sil3nt-wolf/silentwolf/archive/refs/heads/main.zip" target="_blank">
+<a href="https://github.com/sil3nt-wolf/silentwolf-1.1.6/archive/refs/heads/main.zip" target="_blank">
   <img src="https://img.shields.io/badge/DOWNLOAD%20ZIP-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkgreen" alt="Download zip"/>
 </a>
 
 <br>
 
-![GitHub stars](https://img.shields.io/github/stars/sil3nt-wolf/silentwolf?style=for-the-badge&color=darkgreen)
-![GitHub forks](https://img.shields.io/github/forks/sil3nt-wolf/silentwolf?style=for-the-badge&color=darkgreen)
-![GitHub repo size](https://img.shields.io/github/repo-size/sil3nt-wolf/silentwolf?style=for-the-badge&color=darkgreen)
+![GitHub stars](https://img.shields.io/github/stars/sil3nt-wolf/silentwolf-1.1.6?style=for-the-badge&color=darkgreen)
+![GitHub forks](https://img.shields.io/github/forks/sil3nt-wolf/silentwolf-1.1.6?style=for-the-badge&color=darkgreen)
+![GitHub repo size](https://img.shields.io/github/repo-size/sil3nt-wolf/silentwolf-1.1.6?style=for-the-badge&color=darkgreen)
 
 </div>
 
@@ -96,8 +96,8 @@ WOLFBOT comes packed with a wide range of features:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/sil3nt-wolf/silentwolf.git
-cd silentwolf
+git clone https://github.com/sil3nt-wolf/silentwolf-1.1.6.git
+cd silentwolf-1.1.6
 ```
 
 ### 2. Install dependencies
@@ -153,8 +153,8 @@ WOLFBOT runs on all major platforms:
 
 - 🌍 [Deploy WOLFBOT](https://inspiring-genie-ebae09.netlify.app/)
 - 🔑 [Get Session Pair Code](https://7-w.vercel.app/wolf.html)
-- 📦 [Download ZIP](https://github.com/sil3nt-wolf/silentwolf/archive/refs/heads/main.zip)
-- 🐙 [GitHub Repository](https://github.com/sil3nt-wolf/silentwolf)
+- 📦 [Download ZIP](https://github.com/sil3nt-wolf/silentwolf-1.1.6/archive/refs/heads/main.zip)
+- 🐙 [GitHub Repository](https://github.com/sil3nt-wolf/silentwolf-1.1.6)
 
 ---
 
